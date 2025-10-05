@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Badge Generator</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 2.5rem;
+        }
+
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .app-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .app-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .panel {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .panel h2 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ecf0f1;
+        }
+
+        .search-container {
+            margin-bottom: 20px;
+        }
+
+        #search {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: border 0.3s;
+        }
+
+        #search:focus {
+            border-color: #3498db;
+            outline: none;
+        }
+
+        .category-filter {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .category-btn {
+            padding: 8px 15px;
+            background: #ecf0f1;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.9rem;
+        }
+
+        .category-btn.active {
+            background: #3498db;
+            color: white;
+        }
+
+        .badge-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+            max-height: 500px;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        .badge-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 15px;
+            border: 1px solid #ecf0f1;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: center;
+        }
+
+        .badge-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            border-color: #3498db;
+        }
+
+        .badge-item.selected {
+            background: #e1f5fe;
+            border-color: #3498db;
+        }
+
+        .badge-item img {
+            margin-bottom: 10px;
+            max-width: 100%;
+            height: auto;
+        }
+
+        .badge-name {
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .selected-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+            min-height: 100px;
+            padding: 15px;
+            border: 1px dashed #ddd;
+            border-radius: 8px;
+        }
+
+        .selected-badge {
+            display: flex;
+            align-items: center;
+            background: #f8f9fa;
+            padding: 8px 12px;
+            border-radius: 5px;
+            border: 1px solid #dee2e6;
+        }
+
+        .selected-badge img {
+            margin-right: 8px;
+        }
+
+        .remove-badge {
+            margin-left: 8px;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 0.8rem;
+        }
+
+        .markdown-output {
+            width: 100%;
+            min-height: 200px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            resize: vertical;
+            background: #f8f9fa;
+        }
+
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 500;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+        }
+
+        .btn-secondary {
+            background: #95a5a6;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #7f8c8d;
+        }
+
+        .btn-success {
+            background: #2ecc71;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #27ae60;
+        }
+
+        .instructions {
+            margin-top: 30px;
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .instructions h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+
+        .instructions ol {
+            margin-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 30px;
+            color: #7f8c8d;
+        }
+
+        .empty-state i {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            color: #bdc3c7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Markdown Badge Generator</h1>
+            <p class="subtitle">Easily create technology badges for your GitHub README files</p>
+        </header>
+
+        <div class="app-container">
+            <div class="panel">
+                <h2>Select Technologies</h2>
+                
+                <div class="search-container">
+                    <input type="text" id="search" placeholder="Search for technologies...">
+                </div>
+                
+                <div class="category-filter">
+                    <button class="category-btn active" data-category="all">All</button>
+                    <button class="category-btn" data-category="programming">Programming</button>
+                    <button class="category-btn" data-category="framework">Frameworks</button>
+                    <button class="category-btn" data-category="tool">Tools</button>
+                    <button class="category-btn" data-category="cloud">Cloud</button>
+                </div>
+                
+                <div class="badge-grid" id="badge-grid">
+                    <!-- Badges will be loaded here -->
+                </div>
+            </div>
+            
+            <div class="panel">
+                <h2>Your Badges</h2>
+                
+                <div class="selected-badges" id="selected-badges">
+                    <div class="empty-state">
+                        <i class="fas fa-magic"></i>
+                        <p>Select badges from the left panel to see them here</p>
+                    </div>
+                </div>
+                
+                <h3>Markdown Code</h3>
+                <textarea class="markdown-output" id="markdown-output" readonly></textarea>
+                
+                <div class="actions">
+                    <button class="btn btn-primary" id="copy-btn">
+                        <i class="fas fa-copy"></i> Copy Markdown
+                    </button>
+                    <button class="btn btn-secondary" id="clear-btn">
+                        <i class="fas fa-trash"></i> Clear All
+                    </button>
+                    <button class="btn btn-success" id="preview-btn">
+                        <i class="fas fa-eye"></i> Preview README
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="instructions">
+            <h3>How to Use</h3>
+            <ol>
+                <li>Search and select the technology badges you want to use</li>
+                <li>Selected badges will appear in the "Your Badges" section</li>
+                <li>Copy the generated Markdown code and paste it into your README.md file</li>
+                <li>You can also preview how it will look in a README</li>
+            </ol>
+        </div>
+        
+        <footer>
+            <p>Badge data sourced from <a href="https://github.com/Ileriayo/markdown-badges" target="_blank">Ileriayo/markdown-badges</a></p>
+            <p>Made with ❤️ for developers</p>
+        </footer>
+    </div>
+
+    <script>
+        // Sample badge data - in a real app, you would fetch this from the GitHub repo
+        const badges = [
+            {
+                name: "JavaScript",
+                category: "programming",
+                markdown: "![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)",
+                imageUrl: "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+            },
+            {
+                name: "Python",
+                category: "programming",
+                markdown: "![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)",
+                imageUrl: "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+            },
+            {
+                name: "React",
+                category: "framework",
+                markdown: "![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)",
+                imageUrl: "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+            },
+            {
+                name: "Node.js",
+                category: "framework",
+                markdown: "![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+            },
+            {
+                name: "HTML5",
+                category: "programming",
+                markdown: "![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+            },
+            {
+                name: "CSS3",
+                category: "programming",
+                markdown: "![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+            },
+            {
+                name: "Git",
+                category: "tool",
+                markdown: "![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+            },
+            {
+                name: "GitHub",
+                category: "tool",
+                markdown: "![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+            },
+            {
+                name: "VS Code",
+                category: "tool",
+                markdown: "![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+            },
+            {
+                name: "AWS",
+                category: "cloud",
+                markdown: "![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+            },
+            {
+                name: "Docker",
+                category: "tool",
+                markdown: "![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+            },
+            {
+                name: "MongoDB",
+                category: "tool",
+                markdown: "![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)",
+                imageUrl: "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+            }
+        ];
+
+        // App state
+        let selectedBadges = [];
+        let currentCategory = 'all';
+        let searchQuery = '';
+
+        // DOM elements
+        const badgeGrid = document.getElementById('badge-grid');
+        const selectedBadgesContainer = document.getElementById('selected-badges');
+        const markdownOutput = document.getElementById('markdown-output');
+        const searchInput = document.getElementById('search');
+        const categoryButtons = document.querySelectorAll('.category-btn');
+        const copyButton = document.getElementById('copy-btn');
+        const clearButton = document.getElementById('clear-btn');
+        const previewButton = document.getElementById('preview-btn');
+
+        // Initialize the app
+        function init() {
+            renderBadges();
+            setupEventListeners();
+            updateMarkdownOutput();
+        }
+
+        // Set up event listeners
+        function setupEventListeners() {
+            searchInput.addEventListener('input', (e) => {
+                searchQuery = e.target.value.toLowerCase();
+                renderBadges();
+            });
+
+            categoryButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    categoryButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+                    currentCategory = button.dataset.category;
+                    renderBadges();
+                });
+            });
+
+            copyButton.addEventListener('click', copyMarkdown);
+            clearButton.addEventListener('click', clearAllBadges);
+            previewButton.addEventListener('click', previewReadme);
+        }
+
+        // Render badges based on current filters
+        function renderBadges() {
+            badgeGrid.innerHTML = '';
+            
+            const filteredBadges = badges.filter(badge => {
+                const matchesSearch = badge.name.toLowerCase().includes(searchQuery);
+                const matchesCategory = currentCategory === 'all' || badge.category === currentCategory;
+                return matchesSearch && matchesCategory;
+            });
+
+            if (filteredBadges.length === 0) {
+                badgeGrid.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-search"></i>
+                        <p>No badges found. Try a different search.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            filteredBadges.forEach(badge => {
+                const isSelected = selectedBadges.some(selected => selected.name === badge.name);
+                const badgeElement = document.createElement('div');
+                badgeElement.className = `badge-item ${isSelected ? 'selected' : ''}`;
+                badgeElement.innerHTML = `
+                    <img src="${badge.imageUrl}" alt="${badge.name}">
+                    <span class="badge-name">${badge.name}</span>
+                `;
+                badgeElement.addEventListener('click', () => toggleBadgeSelection(badge));
+                badgeGrid.appendChild(badgeElement);
+            });
+        }
+
+        // Toggle badge selection
+        function toggleBadgeSelection(badge) {
+            const index = selectedBadges.findIndex(selected => selected.name === badge.name);
+            
+            if (index === -1) {
+                selectedBadges.push(badge);
+            } else {
+                selectedBadges.splice(index, 1);
+            }
+            
+            renderBadges();
+            renderSelectedBadges();
+            updateMarkdownOutput();
+        }
+
+        // Render selected badges
+        function renderSelectedBadges() {
+            selectedBadgesContainer.innerHTML = '';
+            
+            if (selectedBadges.length === 0) {
+                selectedBadgesContainer.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-magic"></i>
+                        <p>Select badges from the left panel to see them here</p>
+                    </div>
+                `;
+                return;
+            }
+
+            selectedBadges.forEach(badge => {
+                const badgeElement = document.createElement('div');
+                badgeElement.className = 'selected-badge';
+                badgeElement.innerHTML = `
+                    <img src="${badge.imageUrl}" alt="${badge.name}">
+                    <span>${badge.name}</span>
+                    <button class="remove-badge" data-name="${badge.name}">×</button>
+                `;
+                selectedBadgesContainer.appendChild(badgeElement);
+            });
+
+            // Add event listeners to remove buttons
+            document.querySelectorAll('.remove-badge').forEach(button => {
+                button.addEventListener('click', (e) => {
+                    const badgeName = e.target.dataset.name;
+                    removeBadge(badgeName);
+                });
+            });
+        }
+
+        // Remove a badge from selection
+        function removeBadge(badgeName) {
+            selectedBadges = selectedBadges.filter(badge => badge.name !== badgeName);
+            renderBadges();
+            renderSelectedBadges();
+            updateMarkdownOutput();
+        }
+
+        // Update the markdown output
+        function updateMarkdownOutput() {
+            if (selectedBadges.length === 0) {
+                markdownOutput.value = '<!-- Select badges to generate Markdown code -->';
+                return;
+            }
+
+            const markdown = selectedBadges.map(badge => badge.markdown).join('\n');
+            markdownOutput.value = markdown;
+        }
+
+        // Copy markdown to clipboard
+        function copyMarkdown() {
+            markdownOutput.select();
+            document.execCommand('copy');
+            
+            // Visual feedback
+            const originalText = copyButton.innerHTML;
+            copyButton.innerHTML = '<i class="fas fa-check"></i> Copied!';
+            setTimeout(() => {
+                copyButton.innerHTML = originalText;
+            }, 2000);
+        }
+
+        // Clear all selected badges
+        function clearAllBadges() {
+            selectedBadges = [];
+            renderBadges();
+            renderSelectedBadges();
+            updateMarkdownOutput();
+        }
+
+        // Preview README
+        function previewReadme() {
+            const markdown = markdownOutput.value;
+            if (markdown.includes('<!-- Select badges to generate Markdown code -->')) {
+                alert('Please select some badges first!');
+                return;
+            }
+            
+            const previewWindow = window.open('', '_blank');
+            previewWindow.document.write(`
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>README Preview</title>
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css">
+                    <style>
+                        .markdown-body { box-sizing: border-box; min-width: 200px; max-width: 980px; margin: 0 auto; padding: 45px; }
+                    </style>
+                </head>
+                <body>
+                    <article class="markdown-body">
+                        <h1>My Project</h1>
+                        <p>This is a preview of how your badges will look in a README file.</p>
+                        <h2>Technologies</h2>
+                        ${markdown}
+                        <hr>
+                        <p><em>This is a preview generated by the Markdown Badge Generator.</em></p>
+                    </article>
+                </body>
+                </html>
+            `);
+            previewWindow.document.close();
+        }
+
+        // Initialize the app when the DOM is loaded
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>

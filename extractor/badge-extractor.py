@@ -161,7 +161,8 @@ def main():
     """
     Main function to orchestrate the badge extraction process
     """
-    target_repo = "https://github.com/PsymoNiko/badge-styler"
+    #target_repo = "https://github.com/PsymoNiko/badge-styler"
+    target_repo = "https://github.com/Ileriayo/markdown-badges"
     
     print(f"Fetching README from: {target_repo}")
     readme_content = fetch_readme_content(target_repo)

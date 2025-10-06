@@ -1,0 +1,510 @@
+{
+  "category": "Social",
+  "badges_count": 56,
+  "badges": [
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "🧑‍💻 Developer/Forums",
+      "source_file": "README.md",
+      "line_number": 329
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "🧑‍💻 Developer/Forums",
+      "source_file": "README.md",
+      "line_number": 329
+    },
+    {
+      "technology": "Youtube Music",
+      "badge_url": "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white",
+      "markdown": "![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)",
+      "alt_text": "YouTube Music",
+      "section": "🎶 Music",
+      "source_file": "README.md",
+      "line_number": 753
+    },
+    {
+      "technology": "Youtube Music",
+      "badge_url": "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white",
+      "markdown": "![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)",
+      "alt_text": "YouTube Music",
+      "section": "🎶 Music",
+      "source_file": "README.md",
+      "line_number": 753
+    },
+    {
+      "technology": "Slackware",
+      "badge_url": "https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white",
+      "markdown": "![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)",
+      "alt_text": "Slackware",
+      "section": "🎛️ Operating System",
+      "source_file": "README.md",
+      "line_number": 809
+    },
+    {
+      "technology": "Slackware",
+      "badge_url": "https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white",
+      "markdown": "![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)",
+      "alt_text": "Slackware",
+      "section": "🎛️ Operating System",
+      "source_file": "README.md",
+      "line_number": 809
+    },
+    {
+      "technology": "Discord",
+      "badge_url": "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white",
+      "markdown": "![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)",
+      "alt_text": "Discord",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 949
+    },
+    {
+      "technology": "Discord",
+      "badge_url": "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white",
+      "markdown": "![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)",
+      "alt_text": "Discord",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 949
+    },
+    {
+      "technology": "Facebook",
+      "badge_url": "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white",
+      "markdown": "![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)",
+      "alt_text": "Facebook",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 951
+    },
+    {
+      "technology": "Facebook",
+      "badge_url": "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white",
+      "markdown": "![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)",
+      "alt_text": "Facebook",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 951
+    },
+    {
+      "technology": "Instagram",
+      "badge_url": "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white",
+      "markdown": "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)",
+      "alt_text": "Instagram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 955
+    },
+    {
+      "technology": "Instagram",
+      "badge_url": "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white",
+      "markdown": "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)",
+      "alt_text": "Instagram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 955
+    },
+    {
+      "technology": "Linkedin",
+      "badge_url": "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white",
+      "markdown": "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)",
+      "alt_text": "LinkedIn",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 958
+    },
+    {
+      "technology": "Linkedin",
+      "badge_url": "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white",
+      "markdown": "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)",
+      "alt_text": "LinkedIn",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 958
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 968
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 968
+    },
+    {
+      "technology": "Slack",
+      "badge_url": "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
+      "markdown": "![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)",
+      "alt_text": "Slack",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 972
+    },
+    {
+      "technology": "Slack",
+      "badge_url": "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
+      "markdown": "![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)",
+      "alt_text": "Slack",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 972
+    },
+    {
+      "technology": "Telegram",
+      "badge_url": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
+      "markdown": "![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)",
+      "alt_text": "Telegram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 975
+    },
+    {
+      "technology": "Telegram",
+      "badge_url": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
+      "markdown": "![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)",
+      "alt_text": "Telegram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 975
+    },
+    {
+      "technology": "Youtube",
+      "badge_url": "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white",
+      "markdown": "![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)",
+      "alt_text": "YouTube",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 989
+    },
+    {
+      "technology": "Youtube",
+      "badge_url": "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white",
+      "markdown": "![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)",
+      "alt_text": "YouTube",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 989
+    },
+    {
+      "technology": "Facebook Gaming",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white",
+      "markdown": "![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)",
+      "alt_text": "Facebook Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1036
+    },
+    {
+      "technology": "Facebook Gaming",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white",
+      "markdown": "![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)",
+      "alt_text": "Facebook Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1036
+    },
+    {
+      "technology": "Facebook Live",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white",
+      "markdown": "![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white)",
+      "alt_text": "Facebook Live",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1037
+    },
+    {
+      "technology": "Facebook Live",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white",
+      "markdown": "![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white)",
+      "alt_text": "Facebook Live",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1037
+    },
+    {
+      "technology": "Youtube Gaming",
+      "badge_url": "https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white",
+      "markdown": "![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)",
+      "alt_text": "Youtube Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1047
+    },
+    {
+      "technology": "Youtube Gaming",
+      "badge_url": "https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white",
+      "markdown": "![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)",
+      "alt_text": "Youtube Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1047
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "🧑‍💻 Developer/Forums",
+      "source_file": "README.md",
+      "line_number": 329
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "🧑‍💻 Developer/Forums",
+      "source_file": "README.md",
+      "line_number": 329
+    },
+    {
+      "technology": "Youtube Music",
+      "badge_url": "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white",
+      "markdown": "![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)",
+      "alt_text": "YouTube Music",
+      "section": "🎶 Music",
+      "source_file": "README.md",
+      "line_number": 753
+    },
+    {
+      "technology": "Youtube Music",
+      "badge_url": "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white",
+      "markdown": "![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)",
+      "alt_text": "YouTube Music",
+      "section": "🎶 Music",
+      "source_file": "README.md",
+      "line_number": 753
+    },
+    {
+      "technology": "Slackware",
+      "badge_url": "https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white",
+      "markdown": "![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)",
+      "alt_text": "Slackware",
+      "section": "🎛️ Operating System",
+      "source_file": "README.md",
+      "line_number": 809
+    },
+    {
+      "technology": "Slackware",
+      "badge_url": "https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white",
+      "markdown": "![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)",
+      "alt_text": "Slackware",
+      "section": "🎛️ Operating System",
+      "source_file": "README.md",
+      "line_number": 809
+    },
+    {
+      "technology": "Discord",
+      "badge_url": "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white",
+      "markdown": "![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)",
+      "alt_text": "Discord",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 949
+    },
+    {
+      "technology": "Discord",
+      "badge_url": "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white",
+      "markdown": "![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)",
+      "alt_text": "Discord",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 949
+    },
+    {
+      "technology": "Facebook",
+      "badge_url": "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white",
+      "markdown": "![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)",
+      "alt_text": "Facebook",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 951
+    },
+    {
+      "technology": "Facebook",
+      "badge_url": "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white",
+      "markdown": "![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)",
+      "alt_text": "Facebook",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 951
+    },
+    {
+      "technology": "Instagram",
+      "badge_url": "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white",
+      "markdown": "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)",
+      "alt_text": "Instagram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 955
+    },
+    {
+      "technology": "Instagram",
+      "badge_url": "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white",
+      "markdown": "![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)",
+      "alt_text": "Instagram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 955
+    },
+    {
+      "technology": "Linkedin",
+      "badge_url": "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white",
+      "markdown": "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)",
+      "alt_text": "LinkedIn",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 958
+    },
+    {
+      "technology": "Linkedin",
+      "badge_url": "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white",
+      "markdown": "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)",
+      "alt_text": "LinkedIn",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 958
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 968
+    },
+    {
+      "technology": "Reddit",
+      "badge_url": "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
+      "markdown": "![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)",
+      "alt_text": "Reddit",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 968
+    },
+    {
+      "technology": "Slack",
+      "badge_url": "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
+      "markdown": "![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)",
+      "alt_text": "Slack",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 972
+    },
+    {
+      "technology": "Slack",
+      "badge_url": "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
+      "markdown": "![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)",
+      "alt_text": "Slack",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 972
+    },
+    {
+      "technology": "Telegram",
+      "badge_url": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
+      "markdown": "![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)",
+      "alt_text": "Telegram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 975
+    },
+    {
+      "technology": "Telegram",
+      "badge_url": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
+      "markdown": "![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)",
+      "alt_text": "Telegram",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 975
+    },
+    {
+      "technology": "Youtube",
+      "badge_url": "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white",
+      "markdown": "![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)",
+      "alt_text": "YouTube",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 989
+    },
+    {
+      "technology": "Youtube",
+      "badge_url": "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white",
+      "markdown": "![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)",
+      "alt_text": "YouTube",
+      "section": "💬 Social",
+      "source_file": "README.md",
+      "line_number": 989
+    },
+    {
+      "technology": "Facebook Gaming",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white",
+      "markdown": "![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)",
+      "alt_text": "Facebook Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1036
+    },
+    {
+      "technology": "Facebook Gaming",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white",
+      "markdown": "![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)",
+      "alt_text": "Facebook Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1036
+    },
+    {
+      "technology": "Facebook Live",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white",
+      "markdown": "![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white)",
+      "alt_text": "Facebook Live",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1037
+    },
+    {
+      "technology": "Facebook Live",
+      "badge_url": "https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white",
+      "markdown": "![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white)",
+      "alt_text": "Facebook Live",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1037
+    },
+    {
+      "technology": "Youtube Gaming",
+      "badge_url": "https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white",
+      "markdown": "![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)",
+      "alt_text": "Youtube Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1047
+    },
+    {
+      "technology": "Youtube Gaming",
+      "badge_url": "https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white",
+      "markdown": "![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)",
+      "alt_text": "Youtube Gaming",
+      "section": "📺 Streaming",
+      "source_file": "README.md",
+      "line_number": 1047
+    }
+  ]
+}

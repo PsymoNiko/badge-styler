@@ -1,0 +1,54 @@
+{
+  "category_name": "Work/Jobs",
+  "badges_count": 6,
+  "badges": [
+    {
+      "technology": "Plastic",
+      "badge_url": "https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic",
+      "markdown": "![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)",
+      "alt_text": "Plastic",
+      "source_file": "README.md",
+      "line_number": 76
+    },
+    {
+      "technology": "Flat Square",
+      "badge_url": "https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square",
+      "markdown": "![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)",
+      "alt_text": "Flat-square",
+      "source_file": "README.md",
+      "line_number": 77
+    },
+    {
+      "technology": "Flat",
+      "badge_url": "https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat",
+      "markdown": "![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat)",
+      "alt_text": "Flat",
+      "source_file": "README.md",
+      "line_number": 78
+    },
+    {
+      "technology": "Plastic",
+      "badge_url": "https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic",
+      "markdown": "![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)",
+      "alt_text": "Plastic",
+      "source_file": "README.md",
+      "line_number": 76
+    },
+    {
+      "technology": "Flat Square",
+      "badge_url": "https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square",
+      "markdown": "![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)",
+      "alt_text": "Flat-square",
+      "source_file": "README.md",
+      "line_number": 77
+    },
+    {
+      "technology": "Flat",
+      "badge_url": "https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat",
+      "markdown": "![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat)",
+      "alt_text": "Flat",
+      "source_file": "README.md",
+      "line_number": 78
+    }
+  ]
+}

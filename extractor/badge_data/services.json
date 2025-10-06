@@ -1,0 +1,762 @@
+{
+  "category": "Services",
+  "badges_count": 84,
+  "badges": [
+    {
+      "technology": "Apachecassandra",
+      "badge_url": "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white",
+      "markdown": "![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)",
+      "alt_text": "ApacheCassandra",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 250
+    },
+    {
+      "technology": "Apachecassandra",
+      "badge_url": "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white",
+      "markdown": "![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)",
+      "alt_text": "ApacheCassandra",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 250
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)",
+      "alt_text": "Firebase",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 255
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)",
+      "alt_text": "Firebase",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 255
+    },
+    {
+      "technology": "Mysql",
+      "badge_url": "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white",
+      "markdown": "![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)",
+      "alt_text": "MySQL",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 261
+    },
+    {
+      "technology": "Mysql",
+      "badge_url": "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white",
+      "markdown": "![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)",
+      "alt_text": "MySQL",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 261
+    },
+    {
+      "technology": "Redis",
+      "badge_url": "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white",
+      "markdown": "![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)",
+      "alt_text": "Redis",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 267
+    },
+    {
+      "technology": "Redis",
+      "badge_url": "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white",
+      "markdown": "![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)",
+      "alt_text": "Redis",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 267
+    },
+    {
+      "technology": "Apache Spark",
+      "badge_url": "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black",
+      "markdown": "![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)",
+      "alt_text": "Apache Spark",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 411
+    },
+    {
+      "technology": "Apache Spark",
+      "badge_url": "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black",
+      "markdown": "![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)",
+      "alt_text": "Apache Spark",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 411
+    },
+    {
+      "technology": "Apache Kafka",
+      "badge_url": "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
+      "markdown": "![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)",
+      "alt_text": "Apache Kafka",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 412
+    },
+    {
+      "technology": "Apache Kafka",
+      "badge_url": "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
+      "markdown": "![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)",
+      "alt_text": "Apache Kafka",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 412
+    },
+    {
+      "technology": "Apache Hadoop",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black",
+      "markdown": "![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)",
+      "alt_text": "Apache Hadoop",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 413
+    },
+    {
+      "technology": "Apache Hadoop",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black",
+      "markdown": "![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)",
+      "alt_text": "Apache Hadoop",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 413
+    },
+    {
+      "technology": "Apache Hive",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black",
+      "markdown": "![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)",
+      "alt_text": "Apache Hive",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 414
+    },
+    {
+      "technology": "Apache Hive",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black",
+      "markdown": "![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)",
+      "alt_text": "Apache Hive",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 414
+    },
+    {
+      "technology": "Aws",
+      "badge_url": "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
+      "markdown": "![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)",
+      "alt_text": "AWS",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 599
+    },
+    {
+      "technology": "Aws",
+      "badge_url": "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
+      "markdown": "![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)",
+      "alt_text": "AWS",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 599
+    },
+    {
+      "technology": "Azure",
+      "badge_url": "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white",
+      "markdown": "![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)",
+      "alt_text": "Azure",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 600
+    },
+    {
+      "technology": "Azure",
+      "badge_url": "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white",
+      "markdown": "![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)",
+      "alt_text": "Azure",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 600
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)",
+      "alt_text": "Firebase",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 606
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)",
+      "alt_text": "Firebase",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 606
+    },
+    {
+      "technology": "Apache Groovy",
+      "badge_url": "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white",
+      "markdown": "![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)",
+      "alt_text": "Apache Groovy",
+      "section": "📋 Languages",
+      "source_file": "README.md",
+      "line_number": 672
+    },
+    {
+      "technology": "Apache Groovy",
+      "badge_url": "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white",
+      "markdown": "![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)",
+      "alt_text": "Apache Groovy",
+      "section": "📋 Languages",
+      "source_file": "README.md",
+      "line_number": 672
+    },
+    {
+      "technology": "Jaws",
+      "badge_url": "https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white",
+      "markdown": "![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)",
+      "alt_text": "JAWS",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 862
+    },
+    {
+      "technology": "Jaws",
+      "badge_url": "https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white",
+      "markdown": "![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)",
+      "alt_text": "JAWS",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 862
+    },
+    {
+      "technology": "Apache",
+      "badge_url": "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white",
+      "markdown": "![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)",
+      "alt_text": "Apache",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 931
+    },
+    {
+      "technology": "Apache",
+      "badge_url": "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white",
+      "markdown": "![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)",
+      "alt_text": "Apache",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 931
+    },
+    {
+      "technology": "Apache Airflow",
+      "badge_url": "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white",
+      "markdown": "![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)",
+      "alt_text": "Apache Airflow",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 932
+    },
+    {
+      "technology": "Apache Airflow",
+      "badge_url": "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white",
+      "markdown": "![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)",
+      "alt_text": "Apache Airflow",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 932
+    },
+    {
+      "technology": "Apache Ant",
+      "badge_url": "https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white",
+      "markdown": "![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)",
+      "alt_text": "Apache Ant",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 933
+    },
+    {
+      "technology": "Apache Ant",
+      "badge_url": "https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white",
+      "markdown": "![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)",
+      "alt_text": "Apache Ant",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 933
+    },
+    {
+      "technology": "Apache Flink",
+      "badge_url": "https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white",
+      "markdown": "![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)",
+      "alt_text": "Apache Flink",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 934
+    },
+    {
+      "technology": "Apache Flink",
+      "badge_url": "https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white",
+      "markdown": "![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)",
+      "alt_text": "Apache Flink",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 934
+    },
+    {
+      "technology": "Apache Maven",
+      "badge_url": "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white",
+      "markdown": "![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)",
+      "alt_text": "Apache Maven",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 935
+    },
+    {
+      "technology": "Apache Maven",
+      "badge_url": "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white",
+      "markdown": "![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)",
+      "alt_text": "Apache Maven",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 935
+    },
+    {
+      "technology": "Apache Tomcat",
+      "badge_url": "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black",
+      "markdown": "![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)",
+      "alt_text": "Apache Tomcat",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 936
+    },
+    {
+      "technology": "Apache Tomcat",
+      "badge_url": "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black",
+      "markdown": "![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)",
+      "alt_text": "Apache Tomcat",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 936
+    },
+    {
+      "technology": "Nginx",
+      "badge_url": "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white",
+      "markdown": "![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)",
+      "alt_text": "Nginx",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 939
+    },
+    {
+      "technology": "Nginx",
+      "badge_url": "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white",
+      "markdown": "![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)",
+      "alt_text": "Nginx",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 939
+    },
+    {
+      "technology": "Apache Sub",
+      "badge_url": "https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white",
+      "markdown": "![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)",
+      "alt_text": "Apache Subversion",
+      "section": "🕓 Version Control",
+      "source_file": "README.md",
+      "line_number": 1074
+    },
+    {
+      "technology": "Apache Sub",
+      "badge_url": "https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white",
+      "markdown": "![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)",
+      "alt_text": "Apache Subversion",
+      "section": "🕓 Version Control",
+      "source_file": "README.md",
+      "line_number": 1074
+    },
+    {
+      "technology": "Apachecassandra",
+      "badge_url": "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white",
+      "markdown": "![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)",
+      "alt_text": "ApacheCassandra",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 250
+    },
+    {
+      "technology": "Apachecassandra",
+      "badge_url": "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white",
+      "markdown": "![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)",
+      "alt_text": "ApacheCassandra",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 250
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)",
+      "alt_text": "Firebase",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 255
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)",
+      "alt_text": "Firebase",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 255
+    },
+    {
+      "technology": "Mysql",
+      "badge_url": "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white",
+      "markdown": "![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)",
+      "alt_text": "MySQL",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 261
+    },
+    {
+      "technology": "Mysql",
+      "badge_url": "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white",
+      "markdown": "![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)",
+      "alt_text": "MySQL",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 261
+    },
+    {
+      "technology": "Redis",
+      "badge_url": "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white",
+      "markdown": "![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)",
+      "alt_text": "Redis",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 267
+    },
+    {
+      "technology": "Redis",
+      "badge_url": "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white",
+      "markdown": "![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)",
+      "alt_text": "Redis",
+      "section": "💾 Databases",
+      "source_file": "README.md",
+      "line_number": 267
+    },
+    {
+      "technology": "Apache Spark",
+      "badge_url": "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black",
+      "markdown": "![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)",
+      "alt_text": "Apache Spark",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 411
+    },
+    {
+      "technology": "Apache Spark",
+      "badge_url": "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black",
+      "markdown": "![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)",
+      "alt_text": "Apache Spark",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 411
+    },
+    {
+      "technology": "Apache Kafka",
+      "badge_url": "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
+      "markdown": "![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)",
+      "alt_text": "Apache Kafka",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 412
+    },
+    {
+      "technology": "Apache Kafka",
+      "badge_url": "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
+      "markdown": "![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)",
+      "alt_text": "Apache Kafka",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 412
+    },
+    {
+      "technology": "Apache Hadoop",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black",
+      "markdown": "![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)",
+      "alt_text": "Apache Hadoop",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 413
+    },
+    {
+      "technology": "Apache Hadoop",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black",
+      "markdown": "![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)",
+      "alt_text": "Apache Hadoop",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 413
+    },
+    {
+      "technology": "Apache Hive",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black",
+      "markdown": "![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)",
+      "alt_text": "Apache Hive",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 414
+    },
+    {
+      "technology": "Apache Hive",
+      "badge_url": "https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black",
+      "markdown": "![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)",
+      "alt_text": "Apache Hive",
+      "section": "📚 Frameworks, Platforms and Libraries",
+      "source_file": "README.md",
+      "line_number": 414
+    },
+    {
+      "technology": "Aws",
+      "badge_url": "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
+      "markdown": "![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)",
+      "alt_text": "AWS",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 599
+    },
+    {
+      "technology": "Aws",
+      "badge_url": "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
+      "markdown": "![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)",
+      "alt_text": "AWS",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 599
+    },
+    {
+      "technology": "Azure",
+      "badge_url": "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white",
+      "markdown": "![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)",
+      "alt_text": "Azure",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 600
+    },
+    {
+      "technology": "Azure",
+      "badge_url": "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white",
+      "markdown": "![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)",
+      "alt_text": "Azure",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 600
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)",
+      "alt_text": "Firebase",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 606
+    },
+    {
+      "technology": "Firebase",
+      "badge_url": "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase",
+      "markdown": "![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)",
+      "alt_text": "Firebase",
+      "section": "☁️ Hosting/SaaS",
+      "source_file": "README.md",
+      "line_number": 606
+    },
+    {
+      "technology": "Apache Groovy",
+      "badge_url": "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white",
+      "markdown": "![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)",
+      "alt_text": "Apache Groovy",
+      "section": "📋 Languages",
+      "source_file": "README.md",
+      "line_number": 672
+    },
+    {
+      "technology": "Apache Groovy",
+      "badge_url": "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white",
+      "markdown": "![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)",
+      "alt_text": "Apache Groovy",
+      "section": "📋 Languages",
+      "source_file": "README.md",
+      "line_number": 672
+    },
+    {
+      "technology": "Jaws",
+      "badge_url": "https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white",
+      "markdown": "![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)",
+      "alt_text": "JAWS",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 862
+    },
+    {
+      "technology": "Jaws",
+      "badge_url": "https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white",
+      "markdown": "![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)",
+      "alt_text": "JAWS",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 862
+    },
+    {
+      "technology": "Apache",
+      "badge_url": "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white",
+      "markdown": "![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)",
+      "alt_text": "Apache",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 931
+    },
+    {
+      "technology": "Apache",
+      "badge_url": "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white",
+      "markdown": "![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)",
+      "alt_text": "Apache",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 931
+    },
+    {
+      "technology": "Apache Airflow",
+      "badge_url": "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white",
+      "markdown": "![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)",
+      "alt_text": "Apache Airflow",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 932
+    },
+    {
+      "technology": "Apache Airflow",
+      "badge_url": "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white",
+      "markdown": "![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)",
+      "alt_text": "Apache Airflow",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 932
+    },
+    {
+      "technology": "Apache Ant",
+      "badge_url": "https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white",
+      "markdown": "![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)",
+      "alt_text": "Apache Ant",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 933
+    },
+    {
+      "technology": "Apache Ant",
+      "badge_url": "https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white",
+      "markdown": "![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)",
+      "alt_text": "Apache Ant",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 933
+    },
+    {
+      "technology": "Apache Flink",
+      "badge_url": "https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white",
+      "markdown": "![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)",
+      "alt_text": "Apache Flink",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 934
+    },
+    {
+      "technology": "Apache Flink",
+      "badge_url": "https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white",
+      "markdown": "![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)",
+      "alt_text": "Apache Flink",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 934
+    },
+    {
+      "technology": "Apache Maven",
+      "badge_url": "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white",
+      "markdown": "![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)",
+      "alt_text": "Apache Maven",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 935
+    },
+    {
+      "technology": "Apache Maven",
+      "badge_url": "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white",
+      "markdown": "![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)",
+      "alt_text": "Apache Maven",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 935
+    },
+    {
+      "technology": "Apache Tomcat",
+      "badge_url": "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black",
+      "markdown": "![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)",
+      "alt_text": "Apache Tomcat",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 936
+    },
+    {
+      "technology": "Apache Tomcat",
+      "badge_url": "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black",
+      "markdown": "![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)",
+      "alt_text": "Apache Tomcat",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 936
+    },
+    {
+      "technology": "Nginx",
+      "badge_url": "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white",
+      "markdown": "![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)",
+      "alt_text": "Nginx",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 939
+    },
+    {
+      "technology": "Nginx",
+      "badge_url": "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white",
+      "markdown": "![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)",
+      "alt_text": "Nginx",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 939
+    },
+    {
+      "technology": "Apache Sub",
+      "badge_url": "https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white",
+      "markdown": "![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)",
+      "alt_text": "Apache Subversion",
+      "section": "🕓 Version Control",
+      "source_file": "README.md",
+      "line_number": 1074
+    },
+    {
+      "technology": "Apache Sub",
+      "badge_url": "https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white",
+      "markdown": "![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)",
+      "alt_text": "Apache Subversion",
+      "section": "🕓 Version Control",
+      "source_file": "README.md",
+      "line_number": 1074
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "category": "Devops",
+  "badges_count": 28,
+  "badges": [
+    {
+      "technology": "Circleci",
+      "badge_url": "https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white",
+      "markdown": "![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)",
+      "alt_text": "CircleCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 185
+    },
+    {
+      "technology": "Circleci",
+      "badge_url": "https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white",
+      "markdown": "![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)",
+      "alt_text": "CircleCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 185
+    },
+    {
+      "technology": "Travisci",
+      "badge_url": "https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white",
+      "markdown": "![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)",
+      "alt_text": "TravisCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 192
+    },
+    {
+      "technology": "Travisci",
+      "badge_url": "https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white",
+      "markdown": "![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)",
+      "alt_text": "TravisCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 192
+    },
+    {
+      "technology": "Ansible",
+      "badge_url": "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
+      "markdown": "![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)",
+      "alt_text": "Ansible",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 842
+    },
+    {
+      "technology": "Ansible",
+      "badge_url": "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
+      "markdown": "![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)",
+      "alt_text": "Ansible",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 842
+    },
+    {
+      "technology": "Grafana",
+      "badge_url": "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white",
+      "markdown": "![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)",
+      "alt_text": "Grafana",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 859
+    },
+    {
+      "technology": "Grafana",
+      "badge_url": "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white",
+      "markdown": "![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)",
+      "alt_text": "Grafana",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 859
+    },
+    {
+      "technology": "Prometheus",
+      "badge_url": "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white",
+      "markdown": "![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)",
+      "alt_text": "Prometheus",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 883
+    },
+    {
+      "technology": "Prometheus",
+      "badge_url": "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white",
+      "markdown": "![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)",
+      "alt_text": "Prometheus",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 883
+    },
+    {
+      "technology": "Terraform",
+      "badge_url": "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white",
+      "markdown": "![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)",
+      "alt_text": "Terraform",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 893
+    },
+    {
+      "technology": "Terraform",
+      "badge_url": "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white",
+      "markdown": "![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)",
+      "alt_text": "Terraform",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 893
+    },
+    {
+      "technology": "Jenkins",
+      "badge_url": "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white",
+      "markdown": "![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)",
+      "alt_text": "Jenkins",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 938
+    },
+    {
+      "technology": "Jenkins",
+      "badge_url": "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white",
+      "markdown": "![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)",
+      "alt_text": "Jenkins",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 938
+    },
+    {
+      "technology": "Circleci",
+      "badge_url": "https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white",
+      "markdown": "![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)",
+      "alt_text": "CircleCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 185
+    },
+    {
+      "technology": "Circleci",
+      "badge_url": "https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white",
+      "markdown": "![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)",
+      "alt_text": "CircleCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 185
+    },
+    {
+      "technology": "Travisci",
+      "badge_url": "https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white",
+      "markdown": "![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)",
+      "alt_text": "TravisCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 192
+    },
+    {
+      "technology": "Travisci",
+      "badge_url": "https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white",
+      "markdown": "![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)",
+      "alt_text": "TravisCI",
+      "section": "🔬 CI",
+      "source_file": "README.md",
+      "line_number": 192
+    },
+    {
+      "technology": "Ansible",
+      "badge_url": "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
+      "markdown": "![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)",
+      "alt_text": "Ansible",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 842
+    },
+    {
+      "technology": "Ansible",
+      "badge_url": "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
+      "markdown": "![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)",
+      "alt_text": "Ansible",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 842
+    },
+    {
+      "technology": "Grafana",
+      "badge_url": "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white",
+      "markdown": "![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)",
+      "alt_text": "Grafana",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 859
+    },
+    {
+      "technology": "Grafana",
+      "badge_url": "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white",
+      "markdown": "![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)",
+      "alt_text": "Grafana",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 859
+    },
+    {
+      "technology": "Prometheus",
+      "badge_url": "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white",
+      "markdown": "![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)",
+      "alt_text": "Prometheus",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 883
+    },
+    {
+      "technology": "Prometheus",
+      "badge_url": "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white",
+      "markdown": "![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)",
+      "alt_text": "Prometheus",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 883
+    },
+    {
+      "technology": "Terraform",
+      "badge_url": "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white",
+      "markdown": "![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)",
+      "alt_text": "Terraform",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 893
+    },
+    {
+      "technology": "Terraform",
+      "badge_url": "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white",
+      "markdown": "![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)",
+      "alt_text": "Terraform",
+      "section": "🥅 Other",
+      "source_file": "README.md",
+      "line_number": 893
+    },
+    {
+      "technology": "Jenkins",
+      "badge_url": "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white",
+      "markdown": "![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)",
+      "alt_text": "Jenkins",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 938
+    },
+    {
+      "technology": "Jenkins",
+      "badge_url": "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white",
+      "markdown": "![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)",
+      "alt_text": "Jenkins",
+      "section": "🗄️ Servers",
+      "source_file": "README.md",
+      "line_number": 938
+    }
+  ]
+}

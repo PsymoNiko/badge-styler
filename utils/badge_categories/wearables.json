@@ -1,0 +1,10 @@
+{
+  "category": "Wearables",
+  "badges": [
+    {
+      "name": "Fitbit",
+      "badge": "https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white",
+      "markdown": "`![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)`"
+    }
+  ]
+}

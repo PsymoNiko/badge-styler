@@ -1,0 +1,10 @@
+{
+  "category": "CD",
+  "badges": [
+    {
+      "name": "Octopus Deploy",
+      "badge": "https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white",
+      "markdown": "`![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)`"
+    }
+  ]
+}

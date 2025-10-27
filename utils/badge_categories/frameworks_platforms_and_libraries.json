@@ -1,0 +1,415 @@
+{
+  "category": "Frameworks Platforms and Libraries",
+  "badges": [
+    {
+      "name": ".NET",
+      "badge": "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white",
+      "markdown": "`![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)`"
+    },
+    {
+      "name": "AdonisJS",
+      "badge": "https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white",
+      "markdown": "`![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)`"
+    },
+    {
+      "name": "Aiohttp",
+      "badge": "https://img.shields.io/badge/aiohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white",
+      "markdown": "`[Aiohttp](https://img.shields.io/badge/aiohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white)`"
+    },
+    {
+      "name": "Alpine.js",
+      "badge": "https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0",
+      "markdown": "`![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)`"
+    },
+    {
+      "name": "Anaconda",
+      "badge": "https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white",
+      "markdown": "`![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)`"
+    },
+    {
+      "name": "Angular",
+      "badge": "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white",
+      "markdown": "`![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)`"
+    },
+    {
+      "name": "Angular.js",
+      "badge": "https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white",
+      "markdown": "`![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)`"
+    },
+    {
+      "name": "Ant Design",
+      "badge": "https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white",
+      "markdown": "`![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)`"
+    },
+    {
+      "name": "Apache Spark",
+      "badge": "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black",
+      "markdown": "`![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)`"
+    },
+    {
+      "name": "Apache Kafka",
+      "badge": "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
+      "markdown": "`![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)`"
+    },
+    {
+      "name": "Apache Hadoop",
+      "badge": "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black",
+      "markdown": "`![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)`"
+    },
+    {
+      "name": "Apollo GraphQL",
+      "badge": "https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql",
+      "markdown": "`![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)`"
+    },
+    {
+      "name": "Astro",
+      "badge": "https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white",
+      "markdown": "`![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)`"
+    },
+    {
+      "name": "Aurelia",
+      "badge": "https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff",
+      "markdown": "`![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff)`"
+    },
+    {
+      "name": "Blazor",
+      "badge": "https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white",
+      "markdown": "`![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)`"
+    },
+    {
+      "name": "Bootstrap",
+      "badge": "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white",
+      "markdown": "`![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)`"
+    },
+    {
+      "name": "Buefy",
+      "badge": "https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E",
+      "markdown": "`![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E)`"
+    },
+    {
+      "name": "Bulma",
+      "badge": "https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white",
+      "markdown": "`![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)`"
+    },
+    {
+      "name": "Bun",
+      "badge": "https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white",
+      "markdown": "`![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)`"
+    },
+    {
+      "name": "Celery",
+      "badge": "https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4",
+      "markdown": "`![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)`"
+    },
+    {
+      "name": "Chakra UI",
+      "badge": "https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white",
+      "markdown": "`![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)`"
+    },
+    {
+      "name": "Chart.js",
+      "badge": "https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white",
+      "markdown": "`![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)`"
+    },
+    {
+      "name": "Code Igniter",
+      "badge": "https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white",
+      "markdown": "`![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)`"
+    },
+    {
+      "name": "Context API",
+      "badge": "https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react",
+      "markdown": "`![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)`"
+    },
+    {
+      "name": "CUDA",
+      "badge": "https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green",
+      "markdown": "`![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)`"
+    },
+    {
+      "name": "DaisyUI",
+      "badge": "https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white",
+      "markdown": "`![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)`"
+    },
+    {
+      "name": "Deno JS",
+      "badge": "https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white",
+      "markdown": "`![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)`"
+    },
+    {
+      "name": "Directus",
+      "badge": "https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white",
+      "markdown": "`![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white)`"
+    },
+    {
+      "name": "Django",
+      "badge": "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white",
+      "markdown": "`![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)`"
+    },
+    {
+      "name": "DjangoREST",
+      "badge": "https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray",
+      "markdown": "`![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)`"
+    },
+    {
+      "name": "Drupal",
+      "badge": "https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white",
+      "markdown": "`![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)`"
+    },
+    {
+      "name": "EJS",
+      "badge": "https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black",
+      "markdown": "`![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)`"
+    },
+    {
+      "name": "Elasticsearch",
+      "badge": "https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white",
+      "markdown": "`![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)`"
+    },
+    {
+      "name": "Electron.js",
+      "badge": "https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white",
+      "markdown": "`![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)`"
+    },
+    {
+      "name": "Ember",
+      "badge": "https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37",
+      "markdown": "`![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)`"
+    },
+    {
+      "name": "ESBuild",
+      "badge": "https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black",
+      "markdown": "`![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)`"
+    },
+    {
+      "name": "Expo",
+      "badge": "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37",
+      "markdown": "`![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)`"
+    },
+    {
+      "name": "Express.js",
+      "badge": "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB",
+      "markdown": "`![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)`"
+    },
+    {
+      "name": "FastAPI",
+      "badge": "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi",
+      "markdown": "`![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)`"
+    },
+    {
+      "name": "Fastify",
+      "badge": "https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white",
+      "markdown": "`![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)`"
+    },
+    {
+      "name": "Filament",
+      "badge": "https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000",
+      "markdown": "`![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)`"
+    },
+    {
+      "name": "Flask",
+      "badge": "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white",
+      "markdown": "`![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)`"
+    },
+    {
+      "name": "Flutter",
+      "badge": "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white",
+      "markdown": "`![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)`"
+    },
+    {
+      "name": "Framework7",
+      "badge": "https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white",
+      "markdown": "`![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white)`"
+    },
+    {
+      "name": "Gatsby.js",
+      "badge": "https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white",
+      "markdown": "`![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)`"
+    },
+    {
+      "name": "Grav",
+      "badge": "https://img.shields.io/badge/grav-%23FFFFFF.svg?style=for-the-badge&logo=grav&logoColor=221E1F",
+      "markdown": "`![Grav](https://img.shields.io/badge/grav-%23FFFFFF.svg?style=for-the-badge&logo=grav&logoColor=221E1F)`"
+    },
+    {
+      "name": "Green Sock",
+      "badge": "https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white",
+      "markdown": "`![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)`"
+    },
+    {
+      "name": "Gulp",
+      "badge": "https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white",
+      "markdown": "`![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)`"
+    },
+    {
+      "name": "Gutenberg",
+      "badge": "https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white",
+      "markdown": "`![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white)`"
+    },
+    {
+      "name": "Insomnia",
+      "badge": "https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE",
+      "markdown": "`![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)`"
+    },
+    {
+      "name": "Handlebars",
+      "badge": "https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white",
+      "markdown": "`![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)`"
+    },
+    {
+      "name": "Hugo",
+      "badge": "https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo",
+      "markdown": "`![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)`"
+    },
+    {
+      "name": "Ionic",
+      "badge": "https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white",
+      "markdown": "`![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)`"
+    },
+    {
+      "name": "Jasmine",
+      "badge": "https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white",
+      "markdown": "`![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)`"
+    },
+    {
+      "name": "JavaFx",
+      "badge": "https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white",
+      "markdown": "`![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)`"
+    },
+    {
+      "name": "Jinja",
+      "badge": "https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black",
+      "markdown": "`![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)`"
+    },
+    {
+      "name": "Joomla",
+      "badge": "https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white",
+      "markdown": "`![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)`"
+    },
+    {
+      "name": "jQuery",
+      "badge": "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white",
+      "markdown": "`![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)`"
+    },
+    {
+      "name": "JWT/JSON Web Token",
+      "badge": "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens",
+      "markdown": "`![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)`"
+    },
+    {
+      "name": "Laravel",
+      "badge": "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white",
+      "markdown": "`![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)`"
+    },
+    {
+      "name": "Livewire",
+      "badge": "https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white",
+      "markdown": "`![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)`"
+    },
+    {
+      "name": "Less",
+      "badge": "https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white",
+      "markdown": "`![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)`"
+    },
+    {
+      "name": "Maven",
+      "badge": "https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white",
+      "markdown": "`![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))`"
+    },
+    {
+      "name": "MUI",
+      "badge": "https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white",
+      "markdown": "`![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)`"
+    },
+    {
+      "name": "Meteor JS",
+      "badge": "https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white",
+      "markdown": "`![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white)`"
+    },
+    {
+      "name": "Mantine",
+      "badge": "https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0",
+      "markdown": "`![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0)`"
+    },
+    {
+      "name": "MaxCompute",
+      "badge": "https://img.shields.io/badge/MaxCompute-%23FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white",
+      "markdown": "`![MaxCompute](https://img.shields.io/badge/MaxCompute-%23FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white)`"
+    },
+    {
+      "name": "Mediapipe",
+      "badge": "https://img.shields.io/badge/mediapipe-0097A7.svg?style=for-the-badge&logo=mediapipe&logoColor=white",
+      "markdown": "`[Mediapipe](https://img.shields.io/badge/mediapipe-0097A7.svg?style=for-the-badge&logo=mediapipe&logoColor=white)`"
+    },
+    {
+      "name": "NPM",
+      "badge": "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white",
+      "markdown": "`![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)`"
+    },
+    {
+      "name": "NestJS",
+      "badge": "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white",
+      "markdown": "`![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)`"
+    },
+    {
+      "name": "Next JS",
+      "badge": "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white",
+      "markdown": "`![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)`"
+    },
+    {
+      "name": "Node.js",
+      "badge": "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white",
+      "markdown": "`![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)`"
+    },
+    {
+      "name": "Nodemon",
+      "badge": "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD",
+      "markdown": "`![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)`"
+    },
+    {
+      "name": "Node-RED",
+      "badge": "https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white",
+      "markdown": "`![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)`"
+    },
+    {
+      "name": "Nuxt JS",
+      "badge": "https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82",
+      "markdown": "`![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)`"
+    },
+    {
+      "name": "Nx",
+      "badge": "https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white",
+      "markdown": "`![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)`"
+    },
+    {
+      "name": "OpenCV",
+      "badge": "https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white",
+      "markdown": "`![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)`"
+    },
+    {
+      "name": "OpenGL",
+      "badge": "https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl",
+      "markdown": "`![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)`"
+    },
+    {
+      "name": "P5js",
+      "badge": "https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF",
+      "markdown": "`![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)`"
+    },
+    {
+      "name": "Phoenix Framework",
+      "badge": "https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black",
+      "markdown": "`![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black)`"
+    },
+    {
+      "name": "Plotly Dash",
+      "badge": "https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white",
+      "markdown": "`![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)`"
+    },
+    {
+      "name": "PNPM",
+      "badge": "https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220",
+      "markdown": "`![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)`"
+    }
+  ]
+}

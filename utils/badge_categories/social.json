@@ -1,0 +1,230 @@
+{
+  "category": "Social",
+  "badges": [
+    {
+      "name": "Airtable",
+      "badge": "https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white",
+      "markdown": "`![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)`"
+    },
+    {
+      "name": "Bluesky",
+      "badge": "https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white",
+      "markdown": "`![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)`"
+    },
+    {
+      "name": "Discord",
+      "badge": "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white",
+      "markdown": "`![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)`"
+    },
+    {
+      "name": "Element",
+      "badge": "https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white",
+      "markdown": "`![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)`"
+    },
+    {
+      "name": "Facebook",
+      "badge": "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white",
+      "markdown": "`![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)`"
+    },
+    {
+      "name": "Gmail",
+      "badge": "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white",
+      "markdown": "`![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)`"
+    },
+    {
+      "name": "Goodreads",
+      "badge": "https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213",
+      "markdown": "`![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)`"
+    },
+    {
+      "name": "Google Meet",
+      "badge": "https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white",
+      "markdown": "`![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)`"
+    },
+    {
+      "name": "Instagram",
+      "badge": "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white",
+      "markdown": "`![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)`"
+    },
+    {
+      "name": "KakaoTalk",
+      "badge": "https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000",
+      "markdown": "`![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)`"
+    },
+    {
+      "name": "Line",
+      "badge": "https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white",
+      "markdown": "`![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)`"
+    },
+    {
+      "name": "LinkedIn",
+      "badge": "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white",
+      "markdown": "`![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)`"
+    },
+    {
+      "name": "Linktree",
+      "badge": "https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white",
+      "markdown": "`![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)`"
+    },
+    {
+      "name": "Meetup",
+      "badge": "https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white",
+      "markdown": "`![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)`"
+    },
+    {
+      "name": "Messenger",
+      "badge": "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white",
+      "markdown": "`![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)`"
+    },
+    {
+      "name": "Mastodon",
+      "badge": "https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white",
+      "markdown": "`![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)`"
+    },
+    {
+      "name": "Outlook",
+      "badge": "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white",
+      "markdown": "`![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)`"
+    },
+    {
+      "name": "Odysee",
+      "badge": "https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white",
+      "markdown": "`![Odysee](https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white)`"
+    },
+    {
+      "name": "Pinterest",
+      "badge": "https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white",
+      "markdown": "`![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)`"
+    },
+    {
+      "name": "Protonmail",
+      "badge": "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white",
+      "markdown": "`![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)`"
+    },
+    {
+      "name": "Polywork",
+      "badge": "https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black",
+      "markdown": "`![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)`"
+    },
+    {
+      "name": "Reddit",
+      "badge": "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
+      "markdown": "`![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)`"
+    },
+    {
+      "name": "Session",
+      "badge": "https://img.shields.io/badge/Session-%23000000.svg?style=for-the-badge&logo=Session&logoColor=02f780",
+      "markdown": "`![Session](https://img.shields.io/badge/Session-%23000000.svg?style=for-the-badge&logo=Session&logoColor=02f780)`"
+    },
+    {
+      "name": "Signal",
+      "badge": "https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white",
+      "markdown": "`![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)`"
+    },
+    {
+      "name": "Skype",
+      "badge": "https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white",
+      "markdown": "`![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)`"
+    },
+    {
+      "name": "Slack",
+      "badge": "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
+      "markdown": "`![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)`"
+    },
+    {
+      "name": "Snapchat",
+      "badge": "https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black",
+      "markdown": "`![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)`"
+    },
+    {
+      "name": "TeamSpeak",
+      "badge": "https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white",
+      "markdown": "`![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)`"
+    },
+    {
+      "name": "Telegram",
+      "badge": "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
+      "markdown": "`![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)`"
+    },
+    {
+      "name": "Tencent QQ",
+      "badge": "https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white",
+      "markdown": "`![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)`"
+    },
+    {
+      "name": "TikTok",
+      "badge": "https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white",
+      "markdown": "`![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)`"
+    },
+    {
+      "name": "Thunderbird",
+      "badge": "https://img.shields.io/badge/Thunderbird-0A84FF.svg?style=for-the-badge&logo=Thunderbird&logoColor=white",
+      "markdown": "`![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF.svg?style=for-the-badge&logo=Thunderbird&logoColor=white)`"
+    },
+    {
+      "name": "Tumblr",
+      "badge": "https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white",
+      "markdown": "`![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)`"
+    },
+    {
+      "name": "Tutanota",
+      "badge": "https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white",
+      "markdown": "`![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)`"
+    },
+    {
+      "name": "Twitch",
+      "badge": "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white",
+      "markdown": "`![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)`"
+    },
+    {
+      "name": "Viber",
+      "badge": "https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white",
+      "markdown": "`![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)`"
+    },
+    {
+      "name": "WeChat",
+      "badge": "https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white",
+      "markdown": "`![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)`"
+    },
+    {
+      "name": "WhatsApp",
+      "badge": "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
+      "markdown": "`![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)`"
+    },
+    {
+      "name": "Wire",
+      "badge": "https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white",
+      "markdown": "`![Wire](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)`"
+    },
+    {
+      "name": "X",
+      "badge": "https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white",
+      "markdown": "`![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)`"
+    },
+    {
+      "name": "Xbox",
+      "badge": "https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white",
+      "markdown": "`![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)`"
+    },
+    {
+      "name": "XING",
+      "badge": "https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white",
+      "markdown": "`![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)`"
+    },
+    {
+      "name": "YouTube",
+      "badge": "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white",
+      "markdown": "`![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)`"
+    },
+    {
+      "name": "Zoom",
+      "badge": "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white",
+      "markdown": "`![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)`"
+    },
+    {
+      "name": "Threads",
+      "badge": "https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white",
+      "markdown": "`![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)`"
+    }
+  ]
+}

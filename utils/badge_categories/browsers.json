@@ -1,0 +1,60 @@
+{
+  "category": "Browsers",
+  "badges": [
+    {
+      "name": "Brave",
+      "badge": "https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white",
+      "markdown": "`![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)`"
+    },
+    {
+      "name": "DuckDuckGo",
+      "badge": "https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white",
+      "markdown": "`![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)`"
+    },
+    {
+      "name": "Edge",
+      "badge": "https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white",
+      "markdown": "`![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)`"
+    },
+    {
+      "name": "Firefox",
+      "badge": "https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white",
+      "markdown": "`![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)`"
+    },
+    {
+      "name": "Google Chrome",
+      "badge": "https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white",
+      "markdown": "`![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)`"
+    },
+    {
+      "name": "IE",
+      "badge": "https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white",
+      "markdown": "`![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)`"
+    },
+    {
+      "name": "Opera",
+      "badge": "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white",
+      "markdown": "`![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)`"
+    },
+    {
+      "name": "Safari",
+      "badge": "https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white",
+      "markdown": "`![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)`"
+    },
+    {
+      "name": "Tor",
+      "badge": "https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white",
+      "markdown": "`![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)`"
+    },
+    {
+      "name": "Vivaldi",
+      "badge": "https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white",
+      "markdown": "`![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)`"
+    },
+    {
+      "name": "Arc",
+      "badge": "https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white",
+      "markdown": "`![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)`"
+    }
+  ]
+}

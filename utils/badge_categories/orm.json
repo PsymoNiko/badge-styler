@@ -1,0 +1,30 @@
+{
+  "category": "ORM",
+  "badges": [
+    {
+      "name": "Hibernate",
+      "badge": "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white",
+      "markdown": "`![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)`"
+    },
+    {
+      "name": "Prisma",
+      "badge": "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white",
+      "markdown": "`![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)`"
+    },
+    {
+      "name": "Sequelize",
+      "badge": "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white",
+      "markdown": "`![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)`"
+    },
+    {
+      "name": "TypeORM",
+      "badge": "https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white",
+      "markdown": "`![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)`"
+    },
+    {
+      "name": "Quill",
+      "badge": "https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white",
+      "markdown": "`![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)`"
+    }
+  ]
+}

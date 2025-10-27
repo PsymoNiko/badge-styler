@@ -1,0 +1,40 @@
+{
+  "category": "WorkJobs",
+  "badges": [
+    {
+      "name": "AngelList",
+      "badge": "https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black",
+      "markdown": "`![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)`"
+    },
+    {
+      "name": "Behance",
+      "badge": "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white",
+      "markdown": "`![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)`"
+    },
+    {
+      "name": "Freelancer",
+      "badge": "https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white",
+      "markdown": "`![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)`"
+    },
+    {
+      "name": "Hacker Earth",
+      "badge": "https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue",
+      "markdown": "`![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)`"
+    },
+    {
+      "name": "HackerRank",
+      "badge": "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white",
+      "markdown": "`![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`"
+    },
+    {
+      "name": "Indeed",
+      "badge": "https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white",
+      "markdown": "`![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)`"
+    },
+    {
+      "name": "Upwork",
+      "badge": "https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white",
+      "markdown": "`![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)`"
+    }
+  ]
+}

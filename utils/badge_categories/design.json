@@ -1,0 +1,170 @@
+{
+  "category": "Design",
+  "badges": [
+    {
+      "name": "Adobe",
+      "badge": "https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white",
+      "markdown": "`![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Acrobat Reader",
+      "badge": "https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white",
+      "markdown": "`![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)`"
+    },
+    {
+      "name": "Adobe After Effects",
+      "badge": "https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white",
+      "markdown": "`![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Audition",
+      "badge": "https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white",
+      "markdown": "`![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "badge": "https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white",
+      "markdown": "`![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Dreamweaver",
+      "badge": "https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white",
+      "markdown": "`![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Fonts",
+      "badge": "https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white",
+      "markdown": "`![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "badge": "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white",
+      "markdown": "`![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)`"
+    },
+    {
+      "name": "Adobe InDesign",
+      "badge": "https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366",
+      "markdown": "`![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Lightroom",
+      "badge": "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white",
+      "markdown": "`![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Lightroom Classic",
+      "badge": "https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white",
+      "markdown": "`![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "badge": "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white",
+      "markdown": "`![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)`"
+    },
+    {
+      "name": "Adobe Premiere Pro",
+      "badge": "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white",
+      "markdown": "`![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)`"
+    },
+    {
+      "name": "Adobe XD",
+      "badge": "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6",
+      "markdown": "`![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)`"
+    },
+    {
+      "name": "Aseprite",
+      "badge": "https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E",
+      "markdown": "`![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)`"
+    },
+    {
+      "name": "Affinity Designer",
+      "badge": "https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white",
+      "markdown": "`![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)`"
+    },
+    {
+      "name": "Affinity Photo",
+      "badge": "https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white",
+      "markdown": "`![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)`"
+    },
+    {
+      "name": "Blender",
+      "badge": "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white",
+      "markdown": "`![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)`"
+    },
+    {
+      "name": "Canva",
+      "badge": "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white",
+      "markdown": "`![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)`"
+    },
+    {
+      "name": "Clip Studio Paint",
+      "badge": "https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white",
+      "markdown": "`![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)`"
+    },
+    {
+      "name": "Dribbble",
+      "badge": "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white",
+      "markdown": "`![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)`"
+    },
+    {
+      "name": "Figma",
+      "badge": "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white",
+      "markdown": "`![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)`"
+    },
+    {
+      "name": "Framer",
+      "badge": "https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue",
+      "markdown": "`![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)`"
+    },
+    {
+      "name": "Gimp",
+      "badge": "https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF",
+      "markdown": "`![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)`"
+    },
+    {
+      "name": "Inkscape",
+      "badge": "https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13",
+      "markdown": "`![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)`"
+    },
+    {
+      "name": "Invision",
+      "badge": "https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white",
+      "markdown": "`![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)`"
+    },
+    {
+      "name": "Krita",
+      "badge": "https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B",
+      "markdown": "`![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)`"
+    },
+    {
+      "name": "Penpot",
+      "badge": "https://img.shields.io/badge/penpot-%23FFFFFF.svg?style=for-the-badge&logo=penpot&logoColor=black",
+      "markdown": "`![Penpot](https://img.shields.io/badge/penpot-%23FFFFFF.svg?style=for-the-badge&logo=penpot&logoColor=black)`"
+    },
+    {
+      "name": "Proto.io",
+      "badge": "https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff",
+      "markdown": "`![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)`"
+    },
+    {
+      "name": "Rhinoceros",
+      "badge": "https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white",
+      "markdown": "`![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?style=for-the-badge&logo=rhinoceros&logoColor=white)`"
+    },
+    {
+      "name": "Sketch",
+      "badge": "https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black",
+      "markdown": "`![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)`"
+    },
+    {
+      "name": "Sketch Up",
+      "badge": "https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white",
+      "markdown": "`![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)`"
+    },
+    {
+      "name": "Storybook",
+      "badge": "https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white",
+      "markdown": "`![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)`"
+    }
+  ]
+}

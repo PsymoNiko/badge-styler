@@ -1,0 +1,50 @@
+{
+  "category": "Music",
+  "badges": [
+    {
+      "name": "Apple Music",
+      "badge": "https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white",
+      "markdown": "`![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)`"
+    },
+    {
+      "name": "Audacity",
+      "badge": "https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white",
+      "markdown": "`![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)`"
+    },
+    {
+      "name": "Last.fm",
+      "badge": "https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white",
+      "markdown": "`![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)`"
+    },
+    {
+      "name": "SoundCloud",
+      "badge": "https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white",
+      "markdown": "`![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)`"
+    },
+    {
+      "name": "Spotify",
+      "badge": "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white",
+      "markdown": "`![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)`"
+    },
+    {
+      "name": "Shazam",
+      "badge": "https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white",
+      "markdown": "`![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)`"
+    },
+    {
+      "name": "Tidal",
+      "badge": "https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black",
+      "markdown": "`![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)`"
+    },
+    {
+      "name": "YouTube Music",
+      "badge": "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white",
+      "markdown": "`![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)`"
+    },
+    {
+      "name": "Musixmatch",
+      "badge": "https://img.shields.io/badge/Musixmatch-%23FF5353.svg?style=for-the-badge&logo=Musixmatch&logoColor=white",
+      "markdown": "`![Musixmatch](https://img.shields.io/badge/Musixmatch-%23FF5353.svg?style=for-the-badge&logo=Musixmatch&logoColor=white)`"
+    }
+  ]
+}

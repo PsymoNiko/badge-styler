@@ -1,0 +1,110 @@
+{
+  "category": "Gaming",
+  "badges": [
+    {
+      "name": "AMD",
+      "badge": "https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white",
+      "markdown": "`![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)`"
+    },
+    {
+      "name": "Analogue",
+      "badge": "https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white",
+      "markdown": "`![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white)`"
+    },
+    {
+      "name": "Battle.net",
+      "badge": "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white",
+      "markdown": "`![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)`"
+    },
+    {
+      "name": "Bevy",
+      "badge": "https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white",
+      "markdown": "`![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white)`"
+    },
+    {
+      "name": "EA",
+      "badge": "https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white",
+      "markdown": "`![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)`"
+    },
+    {
+      "name": "Epic Games",
+      "badge": "https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white",
+      "markdown": "`![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)`"
+    },
+    {
+      "name": "Godot Engine",
+      "badge": "https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine",
+      "markdown": "`![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)`"
+    },
+    {
+      "name": "Humble Bundle",
+      "badge": "https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white",
+      "markdown": "`![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)`"
+    },
+    {
+      "name": "Intel",
+      "badge": "https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white",
+      "markdown": "`![Intel](https://img.shields.io/badge/intel-%230068B5%20.svg?style=for-the-badge&logo=intel&logoColor=white)`"
+    },
+    {
+      "name": "Itch.io",
+      "badge": "https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white",
+      "markdown": "`![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)`"
+    },
+    {
+      "name": "nVIDIA",
+      "badge": "https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white",
+      "markdown": "`![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)`"
+    },
+    {
+      "name": "OpenGL",
+      "badge": "https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge",
+      "markdown": "`![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)`"
+    },
+    {
+      "name": "PlayStation Network",
+      "badge": "https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white",
+      "markdown": "`![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)`"
+    },
+    {
+      "name": "Riot Games",
+      "badge": "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white",
+      "markdown": "`![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)`"
+    },
+    {
+      "name": "Sidequest",
+      "badge": "https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white",
+      "markdown": "`![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white)`"
+    },
+    {
+      "name": "Square Enix",
+      "badge": "https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white",
+      "markdown": "`![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)`"
+    },
+    {
+      "name": "Steam",
+      "badge": "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white",
+      "markdown": "`![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)`"
+    },
+    {
+      "name": "Ubisoft",
+      "badge": "https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black",
+      "markdown": "`![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)`"
+    },
+    {
+      "name": "Unity",
+      "badge": "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white",
+      "markdown": "`![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)`"
+    },
+    {
+      "name": "Unreal Engine",
+      "badge": "https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white",
+      "markdown": "`![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)`"
+    },
+    {
+      "name": "Xbox",
+      "badge": "https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white",
+      "markdown": "`![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "category": "Other",
+  "badges": [
+    {
+      "name": "Accessibility",
+      "badge": "https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white",
+      "markdown": "`![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)`"
+    },
+    {
+      "name": "Airbnb",
+      "badge": "https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white",
+      "markdown": "`![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)`"
+    },
+    {
+      "name": "Alfred",
+      "badge": "https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred",
+      "markdown": "`![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)`"
+    },
+    {
+      "name": "Ansible",
+      "badge": "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
+      "markdown": "`![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)`"
+    },
+    {
+      "name": "Aqua Sec",
+      "badge": "https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8",
+      "markdown": "`![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8)`"
+    },
+    {
+      "name": "Arduino",
+      "badge": "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white",
+      "markdown": "`![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)`"
+    },
+    {
+      "name": "Babel",
+      "badge": "https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black",
+      "markdown": "`![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)`"
+    },
+    {
+      "name": "Bitwarden",
+      "badge": "https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white",
+      "markdown": "`![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)`"
+    },
+    {
+      "name": "Cisco",
+      "badge": "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black",
+      "markdown": "`![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)`"
+    },
+    {
+      "name": "CMake",
+      "badge": "https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white",
+      "markdown": "`![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)`"
+    },
+    {
+      "name": "CodeCov",
+      "badge": "https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white",
+      "markdown": "`![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)`"
+    },
+    {
+      "name": "Confluence",
+      "badge": "https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white",
+      "markdown": "`![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)`"
+    },
+    {
+      "name": "Crowdin",
+      "badge": "https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white",
+      "markdown": "`![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)`"
+    },
+    {
+      "name": "Docker",
+      "badge": "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white",
+      "markdown": "`![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)`"
+    },
+    {
+      "name": "ESLint",
+      "badge": "https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white",
+      "markdown": "`![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)`"
+    },
+    {
+      "name": "ElasticSearch",
+      "badge": "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch",
+      "markdown": "`![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)`"
+    },
+    {
+      "name": "Espressif",
+      "badge": "https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white",
+      "markdown": "`![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)`"
+    },
+    {
+      "name": "Google TalkBack",
+      "badge": "https://img.shields.io/badge/Google%20TalkBack-%236636B4.svg?style=for-the-badge&logo=GoogleTalkBack&logoColor=white",
+      "markdown": "`![Google TalkBack](https://img.shields.io/badge/Google%20TalkBack-%236636B4.svg?style=for-the-badge&logo=GoogleTalkBack&logoColor=white)`"
+    },
+    {
+      "name": "Gradle",
+      "badge": "https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white",
+      "markdown": "`![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)`"
+    },
+    {
+      "name": "Grafana",
+      "badge": "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white",
+      "markdown": "`![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)`"
+    },
+    {
+      "name": "Home Assistant",
+      "badge": "https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white",
+      "markdown": "`![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)`"
+    },
+    {
+      "name": "Homebridge",
+      "badge": "https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white",
+      "markdown": "`![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)`"
+    },
+    {
+      "name": "JAWS",
+      "badge": "https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white",
+      "markdown": "`![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)`"
+    },
+    {
+      "name": "Jellyfin",
+      "badge": "https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC",
+      "markdown": "`![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)`"
+    },
+    {
+      "name": "Jira",
+      "badge": "https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white",
+      "markdown": "`![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)`"
+    },
+    {
+      "name": "Kubernetes",
+      "badge": "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white",
+      "markdown": "`![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)`"
+    },
+    {
+      "name": "Meta",
+      "badge": "https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white",
+      "markdown": "`![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)`"
+    },
+    {
+      "name": "Mosquitto",
+      "badge": "https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white",
+      "markdown": "`![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)`"
+    },
+    {
+      "name": "Narrator",
+      "badge": "https://img.shields.io/badge/Narrator-%230771D0.svg?style=for-the-badge&logo=Narrator&logoColor=white",
+      "markdown": "`![Narrator](https://img.shields.io/badge/Narrator-%230771D0.svg?style=for-the-badge&logo=Narrator&logoColor=white)`"
+    },
+    {
+      "name": "Notion",
+      "badge": "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white",
+      "markdown": "`![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)`"
+    },
+    {
+      "name": "NVDA",
+      "badge": "https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white",
+      "markdown": "`![NVDA](https://img.shields.io/badge/NVDA-%23630093.svg?style=for-the-badge&logo=NVDA&logoColor=white)`"
+    },
+    {
+      "name": "OpenAPI Specification",
+      "badge": "https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white",
+      "markdown": "`![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)`"
+    },
+    {
+      "name": "OpenSea",
+      "badge": "https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white",
+      "markdown": "`![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)`"
+    },
+    {
+      "name": "OpenTelemetry",
+      "badge": "https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black",
+      "markdown": "`![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)`"
+    },
+    {
+      "name": "Packer",
+      "badge": "https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF",
+      "markdown": "`![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)`"
+    },
+    {
+      "name": "Pi-Hole",
+      "badge": "https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white",
+      "markdown": "`![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)`"
+    },
+    {
+      "name": "PlatformIO",
+      "badge": "https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a",
+      "markdown": "`![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)`"
+    },
+    {
+      "name": "Plex",
+      "badge": "https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white",
+      "markdown": "`![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)`"
+    },
+    {
+      "name": "Portfolio",
+      "badge": "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139",
+      "markdown": "`![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)`"
+    },
+    {
+      "name": "Postman",
+      "badge": "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white",
+      "markdown": "`![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)`"
+    },
+    {
+      "name": "Power BI",
+      "badge": "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black",
+      "markdown": "`![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)`"
+    },
+    {
+      "name": "Prettier",
+      "badge": "https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black",
+      "markdown": "`![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)`"
+    },
+    {
+      "name": "Prezi",
+      "badge": "https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white",
+      "markdown": "`![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)`"
+    },
+    {
+      "name": "Prometheus",
+      "badge": "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white",
+      "markdown": "`![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)`"
+    }
+  ]
+}

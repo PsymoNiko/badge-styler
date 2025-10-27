@@ -1,0 +1,65 @@
+{
+  "category": "Game Consoles",
+  "badges": [
+    {
+      "name": "3DS",
+      "badge": "https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white",
+      "markdown": "`![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)`"
+    },
+    {
+      "name": "Gamecube",
+      "badge": "https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white",
+      "markdown": "`![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)`"
+    },
+    {
+      "name": "Playstation",
+      "badge": "https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white",
+      "markdown": "`![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)`"
+    },
+    {
+      "name": "Playstation 2",
+      "badge": "https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white",
+      "markdown": "`![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white)`"
+    },
+    {
+      "name": "Playstation 3",
+      "badge": "https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white",
+      "markdown": "`![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)`"
+    },
+    {
+      "name": "Playstation 4",
+      "badge": "https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white",
+      "markdown": "`![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)`"
+    },
+    {
+      "name": "Playstation 5",
+      "badge": "https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white",
+      "markdown": "`![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)`"
+    },
+    {
+      "name": "Playstation Vita",
+      "badge": "https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white",
+      "markdown": "`![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white)`"
+    },
+    {
+      "name": "Switch",
+      "badge": "https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white",
+      "markdown": "`![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)`"
+    },
+    {
+      "name": "Wii",
+      "badge": "https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white",
+      "markdown": "`![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)`"
+    },
+    {
+      "name": "Wii U",
+      "badge": "https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white",
+      "markdown": "`![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)`"
+    },
+    {
+      "name": "Xbox",
+      "badge": "https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white",
+      "markdown": "`![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)`"
+    }
+  ]
+}

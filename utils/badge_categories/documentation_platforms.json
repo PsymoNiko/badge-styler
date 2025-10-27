@@ -1,0 +1,30 @@
+{
+  "category": "Documentation Platforms",
+  "badges": [
+    {
+      "name": "Bookstack",
+      "badge": "https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white",
+      "markdown": "`![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)`"
+    },
+    {
+      "name": "GitBook",
+      "badge": "https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white",
+      "markdown": "`![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)`"
+    },
+    {
+      "name": "ReadTheDocs",
+      "badge": "https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white",
+      "markdown": "`![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)`"
+    },
+    {
+      "name": "Wikipedia",
+      "badge": "https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white",
+      "markdown": "`![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)`"
+    },
+    {
+      "name": "Wiki.js",
+      "badge": "https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white",
+      "markdown": "`![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)`"
+    }
+  ]
+}

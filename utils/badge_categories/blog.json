@@ -1,0 +1,55 @@
+{
+  "category": "Blog",
+  "badges": [
+    {
+      "name": "Blogger",
+      "badge": "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white",
+      "markdown": "`![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)`"
+    },
+    {
+      "name": "daily.dev",
+      "badge": "https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white",
+      "markdown": "`![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)`"
+    },
+    {
+      "name": "Dev",
+      "badge": "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white",
+      "markdown": "`![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)`"
+    },
+    {
+      "name": "Ghost",
+      "badge": "https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E",
+      "markdown": "`![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)`"
+    },
+    {
+      "name": "Hashnode",
+      "badge": "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white",
+      "markdown": "`![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)`"
+    },
+    {
+      "name": "Medium",
+      "badge": "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white",
+      "markdown": "`![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)`"
+    },
+    {
+      "name": "Micro.blog",
+      "badge": "https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white",
+      "markdown": "`![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)`"
+    },
+    {
+      "name": "Rss",
+      "badge": "https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white",
+      "markdown": "`![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)`"
+    },
+    {
+      "name": "Substack",
+      "badge": "https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719",
+      "markdown": "`![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)`"
+    },
+    {
+      "name": "Wix",
+      "badge": "https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white",
+      "markdown": "`![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)`"
+    }
+  ]
+}

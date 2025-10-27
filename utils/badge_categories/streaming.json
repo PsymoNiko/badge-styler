@@ -1,0 +1,90 @@
+{
+  "category": "Streaming",
+  "badges": [
+    {
+      "name": "Amazon Prime",
+      "badge": "https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white",
+      "markdown": "`![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)`"
+    },
+    {
+      "name": "Bilibili",
+      "badge": "https://img.shields.io/badge/bilibili-00A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white",
+      "markdown": "`![Bilibili](https://img.shields.io/badge/bilibili-00A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)`"
+    },
+    {
+      "name": "Apple TV",
+      "badge": "https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white",
+      "markdown": "`![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)`"
+    },
+    {
+      "name": "Crunchyroll",
+      "badge": "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white",
+      "markdown": "`![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)`"
+    },
+    {
+      "name": "Facebook Gaming",
+      "badge": "https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white",
+      "markdown": "`![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)`"
+    },
+    {
+      "name": "Facebook Live",
+      "badge": "https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white",
+      "markdown": "`![Facebook Live](https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white)`"
+    },
+    {
+      "name": "Fandango At Home",
+      "badge": "https://img.shields.io/badge/Fandango%20At%20Home-3478C1?style=for-the-badge&logo=fandango&logoColor=white",
+      "markdown": "`![Fandango At Home](https://img.shields.io/badge/Fandango%20At%20Home-3478C1?style=for-the-badge&logo=fandango&logoColor=white)`"
+    },
+    {
+      "name": "Fire TV",
+      "badge": "https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white",
+      "markdown": "`![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white)`"
+    },
+    {
+      "name": "Fubo",
+      "badge": "https://img.shields.io/badge/Fubo-E64526?style=for-the-badge&logo=fubo&logoColor=white",
+      "markdown": "`![Fubo](https://img.shields.io/badge/Fubo-E64526?style=for-the-badge&logo=fubo&logoColor=white)`"
+    },
+    {
+      "name": "Hulu",
+      "badge": "https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white",
+      "markdown": "`![Hulu](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)`"
+    },
+    {
+      "name": "Kick",
+      "badge": "https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white",
+      "markdown": "`![Kick](https://img.shields.io/badge/kick-53FC18?style=for-the-badge&logo=kick&logoColor=white)`"
+    },
+    {
+      "name": "Netflix",
+      "badge": "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white",
+      "markdown": "`![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)`"
+    },
+    {
+      "name": "Roku",
+      "badge": "https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white",
+      "markdown": "`![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)`"
+    },
+    {
+      "name": "Tubi",
+      "badge": "https://img.shields.io/badge/Tubi-6A18F5?style=for-the-badge&logo=tubi&logoColor=white",
+      "markdown": "`![Tubi](https://img.shields.io/badge/Tubi-6A18F5?style=for-the-badge&logo=tubi&logoColor=white)`"
+    },
+    {
+      "name": "Twitch",
+      "badge": "https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white",
+      "markdown": "`![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)`"
+    },
+    {
+      "name": "Youtube Gaming",
+      "badge": "https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white",
+      "markdown": "`![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)`"
+    },
+    {
+      "name": "Disney",
+      "badge": "https://img.shields.io/badge/Disney-%23006E99.svg?style=for-the-badge&logo=disney&logoColor=white",
+      "markdown": "`![Disney](https://img.shields.io/badge/Disney-%23006E99.svg?style=for-the-badge&logo=disney&logoColor=white)`"
+    }
+  ]
+}

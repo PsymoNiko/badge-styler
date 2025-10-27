@@ -1,0 +1,70 @@
+{
+  "category": "Smartphone Brands",
+  "badges": [
+    {
+      "name": "Apple",
+      "badge": "https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white",
+      "markdown": "`![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)`"
+    },
+    {
+      "name": "ASUS",
+      "badge": "https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white",
+      "markdown": "`![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)`"
+    },
+    {
+      "name": "BlackBerry",
+      "badge": "https://img.shields.io/badge/blackberry-808080.svg?style=for-the-badge&logo=blackberry&logoColor=white",
+      "markdown": "`![BlackBerry](https://img.shields.io/badge/blackberry-808080.svg?style=for-the-badge&logo=blackberry&logoColor=white)`"
+    },
+    {
+      "name": "Huawei",
+      "badge": "https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white",
+      "markdown": "`![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)`"
+    },
+    {
+      "name": "Lenovo",
+      "badge": "https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white",
+      "markdown": "`![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)`"
+    },
+    {
+      "name": "LG",
+      "badge": "https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white",
+      "markdown": "`![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)`"
+    },
+    {
+      "name": "OnePlus",
+      "badge": "https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white",
+      "markdown": "`![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)`"
+    },
+    {
+      "name": "Motorola",
+      "badge": "https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white",
+      "markdown": "`![Motorola](https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white)`"
+    },
+    {
+      "name": "Nokia",
+      "badge": "https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white",
+      "markdown": "`![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white)`"
+    },
+    {
+      "name": "Samsung",
+      "badge": "https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white",
+      "markdown": "`![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)`"
+    },
+    {
+      "name": "Xiaomi",
+      "badge": "https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white",
+      "markdown": "`![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)`"
+    },
+    {
+      "name": "Oppo",
+      "badge": "https://img.shields.io/badge/Oppo-%231EA366.svg?style=for-the-badge&logo=oppo&logoColor=white",
+      "markdown": "`![Oppo](https://img.shields.io/badge/Oppo-%231EA366.svg?style=for-the-badge&logo=oppo&logoColor=white)`"
+    },
+    {
+      "name": "Vivo",
+      "badge": "https://img.shields.io/badge/Vivo-%2300BFFF.svg?style=for-the-badge&logo=vivo&logoColor=black",
+      "markdown": "`![Vivo](https://img.shields.io/badge/Vivo-%2300BFFF.svg?style=for-the-badge&logo=vivo&logoColor=black)`"
+    }
+  ]
+}

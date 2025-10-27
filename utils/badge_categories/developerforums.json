@@ -1,0 +1,75 @@
+{
+  "category": "DeveloperForums",
+  "badges": [
+    {
+      "name": "CodeChef",
+      "badge": "https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white",
+      "markdown": "`![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)`"
+    },
+    {
+      "name": "Codeforces",
+      "badge": "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white",
+      "markdown": "`![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)`"
+    },
+    {
+      "name": "CodePen",
+      "badge": "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white",
+      "markdown": "`![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)`"
+    },
+    {
+      "name": "Hackerearth",
+      "badge": "https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue",
+      "markdown": "`![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)`"
+    },
+    {
+      "name": "Hackerrank",
+      "badge": "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white",
+      "markdown": "`![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)`"
+    },
+    {
+      "name": "Kaggle",
+      "badge": "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white",
+      "markdown": "`![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)`"
+    },
+    {
+      "name": "LeetCode",
+      "badge": "https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06",
+      "markdown": "`![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)`"
+    },
+    {
+      "name": "OnePlus Forums",
+      "badge": "https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white",
+      "markdown": "`![OnePlus Forums](https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white)`"
+    },
+    {
+      "name": "Quora",
+      "badge": "https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white",
+      "markdown": "`![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)`"
+    },
+    {
+      "name": "Reddit",
+      "badge": "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white",
+      "markdown": "`![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)`"
+    },
+    {
+      "name": "ResearchGate",
+      "badge": "https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white",
+      "markdown": "`![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)`"
+    },
+    {
+      "name": "Stack Exchange",
+      "badge": "https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange",
+      "markdown": "`![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)`"
+    },
+    {
+      "name": "Stack Overflow",
+      "badge": "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white",
+      "markdown": "`![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)`"
+    },
+    {
+      "name": "XDA-Developers",
+      "badge": "https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white",
+      "markdown": "`![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)`"
+    }
+  ]
+}

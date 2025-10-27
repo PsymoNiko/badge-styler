@@ -1,0 +1,45 @@
+{
+  "category": "Cloud Storage",
+  "badges": [
+    {
+      "name": "Amazon S3",
+      "badge": "https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white",
+      "markdown": "`![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)`"
+    },
+    {
+      "name": "Dropbox",
+      "badge": "https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white",
+      "markdown": "`![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)`"
+    },
+    {
+      "name": "Google Drive",
+      "badge": "https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white",
+      "markdown": "`![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)`"
+    },
+    {
+      "name": "Mega.nz",
+      "badge": "https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white",
+      "markdown": "`![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)`"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "badge": "https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4",
+      "markdown": "`![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)`"
+    },
+    {
+      "name": "Next Cloud",
+      "badge": "https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white",
+      "markdown": "`![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)`"
+    },
+    {
+      "name": "OneDrive",
+      "badge": "https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white",
+      "markdown": "`![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)`"
+    },
+    {
+      "name": "Proton Drive",
+      "badge": "https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white",
+      "markdown": "`![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)`"
+    }
+  ]
+}

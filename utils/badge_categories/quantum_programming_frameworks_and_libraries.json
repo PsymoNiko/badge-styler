@@ -1,0 +1,10 @@
+{
+  "category": "Quantum Programming Frameworks and Libraries",
+  "badges": [
+    {
+      "name": "Qiskit",
+      "badge": "https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white",
+      "markdown": "`![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)`"
+    }
+  ]
+}

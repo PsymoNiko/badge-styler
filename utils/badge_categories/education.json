@@ -1,0 +1,110 @@
+{
+  "category": "Education",
+  "badges": [
+    {
+      "name": "42",
+      "badge": "https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white",
+      "markdown": "`![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)`"
+    },
+    {
+      "name": "Codecademy",
+      "badge": "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A",
+      "markdown": "`![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)`"
+    },
+    {
+      "name": "Codingninjas",
+      "badge": "https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white",
+      "markdown": "`![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)`"
+    },
+    {
+      "name": "Codewars",
+      "badge": "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black",
+      "markdown": "`![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)`"
+    },
+    {
+      "name": "Coursera",
+      "badge": "https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white",
+      "markdown": "`![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)`"
+    },
+    {
+      "name": "Datacamp",
+      "badge": "https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860",
+      "markdown": "`![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)`"
+    },
+    {
+      "name": "Duolingo",
+      "badge": "https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white",
+      "markdown": "`![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)`"
+    },
+    {
+      "name": "edX",
+      "badge": "https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white",
+      "markdown": "`![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)`"
+    },
+    {
+      "name": "Exercism",
+      "badge": "https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white",
+      "markdown": "`![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)`"
+    },
+    {
+      "name": "FreeCodeCamp",
+      "badge": "https://img.shields.io/badge/Freecodecamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green",
+      "markdown": "`![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)`"
+    },
+    {
+      "name": "Future Learn",
+      "badge": "https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white",
+      "markdown": "`![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)`"
+    },
+    {
+      "name": "GeeksforGeeks",
+      "badge": "https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c",
+      "markdown": "`![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)`"
+    },
+    {
+      "name": "Google Scholar",
+      "badge": "https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white",
+      "markdown": "`![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)`"
+    },
+    {
+      "name": "Khan Academy",
+      "badge": "https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white",
+      "markdown": "`![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)`"
+    },
+    {
+      "name": "MDN Web Docs",
+      "badge": "https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white",
+      "markdown": "`![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)`"
+    },
+    {
+      "name": "Microsoft Learn",
+      "badge": "https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white",
+      "markdown": "`![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)`"
+    },
+    {
+      "name": "Pluralsight",
+      "badge": "https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white",
+      "markdown": "`![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)`"
+    },
+    {
+      "name": "Scrimba",
+      "badge": "https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white",
+      "markdown": "`![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)`"
+    },
+    {
+      "name": "Skill Share",
+      "badge": "https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84",
+      "markdown": "`![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)`"
+    },
+    {
+      "name": "Udacity",
+      "badge": "https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6",
+      "markdown": "`![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)`"
+    },
+    {
+      "name": "Udemy",
+      "badge": "https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white",
+      "markdown": "`![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)`"
+    }
+  ]
+}

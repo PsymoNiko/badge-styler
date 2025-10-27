@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  markdown-badges:
+    build: .
+    ports:
+      - "8080:80"
+    container_name: markdown-badge-generator
+    restart: unless-stopped
+    volumes:
+      - ./badge_categories:/usr/share/nginx/html/badge_categories:ro
+    environment:
+      - NGINX_HOST=localhost
+      - NGINX_PORT=80
